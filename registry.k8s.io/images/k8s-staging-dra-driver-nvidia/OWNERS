@@ -1,0 +1,11 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+  - dims
+  - shivamerla
+  - varunrsekar
+  - klueska
+  - jgehrcke
+labels:
+  - wg/device-management
+  - sig/node
